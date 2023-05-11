@@ -1,11 +1,11 @@
-[![MasterHead](http://www.careerstudio.co.in/wp-content/uploads/2017/04/android-app.gif)](https://rushi128.io)
+[![MasterHead](https://cdn.dribbble.com/users/1732368/screenshots/6553872/web_developer.gif)](https://rushi128.io)
 <h1 align="center">Hi 👋, I'm Rushikesh</h1>
 <h3 align="center">A passionate developer from India</h3>
 <img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rushi128&label=Profile%20views&color=0e75b6&style=flat" alt="rushi128" /> </p>
 
-- 🌱 I’m currently learning **Frameworks, Deoops**
+- 🌱 I’m currently learning **Frameworks, Selenium**
 
 - 💬 Ask me about **python, java, openCV**
 
