@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **Frameworks, Selenium**
 
-- 💬 Ask me about **python, java, openCV**
+- 💬 Ask me about **python, java, NodeJS**
 
 - 📫 How to reach me **rusithorat128@gmail.com**
 
