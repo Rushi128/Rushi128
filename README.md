@@ -8,7 +8,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rushi128&label=Profile%20views&color=0e75b6&style=flat" alt="rushi128" /> </p>
 
-- 🌱 I’m currently learning ** AI & ML**
+- 🌱 I’m currently learning **AI & ML**
 
 - 💬 Ask me about **python, java, NodeJS**
 
