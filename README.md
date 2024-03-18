@@ -2,7 +2,7 @@
 <h3 align="center">A passionate Full Stack Web developer from India</h3>
 
 
-[![MasterHead][("https://miro.medium.com/v2/resize:fit:4800/format:webp/1*L_QoAG863l8QvqxpNyBiqw.gif")](https://rushi128.io)
+[![MasterHead][(src = "https://miro.medium.com/v2/resize:fit:4800/format:webp/1*L_QoAG863l8QvqxpNyBiqw.gif")](https://rushi128.io)
 
 <img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif">
 
