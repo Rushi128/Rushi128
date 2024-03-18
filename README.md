@@ -2,7 +2,7 @@
 <h3 align="center">A passionate Full Stack Web developer from India</h3>
 
 
-[![MasterHead]([https://cdn.dribbble.com/users/1732368/screenshots/6553872/web_developer.gif](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.linkedin.com%2Fpulse%2Fwordpress-vs-web-developer-whats-difference-zuraiz-khan&psig=AOvVaw3mlvPV4soHsDUyinnbfsi-&ust=1710846962014000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCOiJs93X_YQDFQAAAAAdAAAAABAS))](https://rushi128.io)
+[![MasterHead]([[https://cdn.dribbble.com/users/1732368/screenshots/6553872/web_developer.gif](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.linkedin.com%2Fpulse%2Fwordpress-vs-web-developer-whats-difference-zuraiz-khan&psig=AOvVaw3mlvPV4soHsDUyinnbfsi-&ust=1710846962014000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCOiJs93X_YQDFQAAAAAdAAAAABAS)](https://media.licdn.com/dms/image/D4D12AQEwYz74Mf7XKA/article-cover_image-shrink_600_2000/0/1677431973169?e=2147483647&v=beta&t=XAXpJxyem6V0COVr2qwSxPLctoigzjSXhAa4PSHczMI))](https://rushi128.io)
 
 <img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif">
 
