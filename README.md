@@ -1,30 +1,77 @@
-<h1 align="center">Hi 👋, I'm Rushikesh</h1>
-<h3 align="center">A passionate Full Stack Web developer from India</h3>
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=600&size=32&duration=4000&pause=1000&color=3498DB&center=true&vCenter=true&width=800&lines=Welcome+to+My+AI+Engineering+Space+👋;Crafting+the+Future+of+Secure+AI;Generative+AI+%26+Security+Specialist;Building+Tomorrow's+AI+Today" alt="Typing SVG" />
+</div>
 
-![MasterHead](https://miro.medium.com/v2/resize:fit:4800/format:webp/1*L_QoAG863l8QvqxpNyBiqw.gif)
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=rushi128&theme=tokyonight&no-frame=true&margin-w=15&column=-1" alt="GitHub Profile Trophy"/>
+</div>
 
+## 🧠 Vision & Mission
 
-<img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif">
+> *"Building secure, ethical AI systems that shape the future while protecting it"*
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rushi128&label=Profile%20views&color=0e75b6&style=flat" alt="rushi128" /> </p>
+<img align="right" alt="AI Innovation" width="400" src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif">
 
-- 🌱 I’m currently learning **AI & ML**
+### 🔮 Current Focus
+- 🛡️ Architecting next-gen AI security frameworks
+- 🤖 Advancing LLM capabilities & safety
+- 🔒 Developing secure AI deployment patterns
+- 🌐 Creating robust AI-powered solutions
 
-- 💬 Ask me about **python, java, NodeJS**
+### 💡 Expertise Areas
+- **AI & Security**
+  - Large Language Models (LLMs)
+  - AI Security & Vulnerability Assessment
+  - Prompt Engineering & AI Safety
+  - Secure System Architecture
 
-- 📫 How to reach me **rusithorat128@gmail.com**
+- **Technical Skills**
+  - Full Stack AI Development
+  - MLOps & DevSecOps
+  - Cloud-Native Solutions
+  - Advanced System Design
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://dev.to/dev.to/rushi128" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="dev.to/rushi128" height="30" width="40" /></a>
-<a href="https://instagram.com/rushi_thorat128" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="rushi_thorat128" height="30" width="40" /></a>
-</p>
+## 🛠️ Technology Stack
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://codeigniter.com" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/codeigniter.svg" alt="codeigniter" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+<div align="center">
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rushi128&show_icons=true&locale=en&layout=compact" alt="rushi128" /></p>
+**AI/ML & Data Science** | **Security** | **Development** | **Cloud & Infrastructure**
+:-------------------------:|:-------------------------:|:-------------------------:|:-------------------------:
+ .| Penetration Testing | Python • JavaScript | AWS 
+ .| Security Frameworks | React • Node.js | 
+OpenAI | Threat Modeling |  Flask |
+AWS Bedrock | Zero Trust Architecture | MongoDB  |  DevSecOps
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rushi128&show_icons=true&locale=en" alt="rushi128" /></p>
+</div>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rushi128&" alt="rushi128" /></p
+## 📊 Engineering Impact
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rushi128&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" alt="GitHub Stats"/>
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=rushi128&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rushi128&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages"/>
+</div>
+
+## 🏆 Recent Achievements & Innovations
+
+- 🔒 Pioneered secure AI deployment frameworks for enterprise systems
+- 🤖 Developed domain-specific LLM solutions with enhanced safety measures
+- 🛡️ Implemented cutting-edge AI security protocols and best practices
+- 📚 Contributed to the AI security community through technical publications
+
+## 🤝 Let's Connect & Collaborate
+
+<div align="left">
+<a href="mailto:rusithorat128@gmail.com"><img src="https://img.shields.io/badge/Email-Connect-blue?style=for-the-badge&logo=gmail" alt="Email"/></a>
+<a href="https://dev.to/rushi128"><img src="https://img.shields.io/badge/dev.to-Follow-black?style=for-the-badge&logo=dev.to" alt="Dev.to"/></a>
+<a href="https://instagram.com/rushi_thorat128"><img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram" alt="Instagram"/></a>
+</div>
+
+<div align="center">
+  <h3>🚀 Building the future of AI, one secure system at a time 🚀</h3>
+  
+  ![Visitor Count](https://profile-counter.glitch.me/rushi128/count.svg)
+</div>
